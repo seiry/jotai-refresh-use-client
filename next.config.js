@@ -2,7 +2,7 @@
 const nextConfig = {
     experimental: {
         swcPlugins: [
-            ['@swc-jotai/react-refresh', {}],
+            // ['@swc-jotai/react-refresh', {}],
         ],
     },
 }
