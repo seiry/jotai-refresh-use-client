@@ -2,7 +2,8 @@
 const nextConfig = {
     experimental: {
         swcPlugins: [
-            // ['@swc-jotai/react-refresh', {}],
+            // enable this will cause error
+            ['@swc-jotai/react-refresh', {}],
         ],
     },
 }
